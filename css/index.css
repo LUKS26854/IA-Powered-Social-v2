@@ -1,0 +1,107 @@
+
+body{
+    /* background-color: #ffffff; */
+    width: 100%;
+    height: 1vh;
+    background-color: #0bd6ff;
+}
+    
+main{
+    width: 80%;
+    height: 520vh;
+    background-color: #ffffff;
+    margin-left: 10%;
+    margin-top: vh;
+    margin-bottom: 1vh;
+
+  
+}
+main header{
+    width: 100%;
+    height: 12vh;
+    background-image: ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background: position y 7px;;
+    background-position-x:5vh;
+    /* background-color: #ffffff; */
+}
+
+main section{
+    width: 100%;
+    height: 55vh;
+    /* background-color: #ffffff; */
+}
+
+main section article{
+    width: 100%;
+    height: 100vh;
+    float: left;
+    margin-left: ;
+    margin-bottom: vh;
+   
+    /* background-color: #ffffff; */
+}
+
+main section article h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2.8em;
+    text-transform: uppercase;
+    text-align:center;
+    font-weight: bold;
+    margin-top: 1vh;
+    color: #000000;
+    /* background-color: #ffffff; */
+    
+   
+}
+main section article h2{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    text-align:center;
+    font-weight: bold;
+    margin-top: 1vh;
+    margin-bottom: vh;
+    color: #000000;
+    /* background-color: #ffffff; */
+}
+
+main section article h3{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.6em;
+    /* text-transform: uppercase; */
+    text-align:center;
+    font-weight: bold;
+    margin-top: 1vh;
+    margin-bottom: vh;
+    color: #000000;
+    /* background-color: #ffffff; */
+}
+
+main section article p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.3em;
+    color: #000000;
+    margin-top: vh;
+    margin-bottom: vh;
+    margin-left: vh;
+    text-align:center;
+    /* background-color: #ffffff; */
+
+   }
+               
+main section article iframe{
+    margin-left: 35vh;}
+main section article img{
+    margin-left: 50vh;
+    height:vh ;
+    width:% ;
+}
+
+main footer{
+    width: 100%;
+    height: 100vh;
+    margin-top: 200vh;
+    background-color: #ffffff;
+}
